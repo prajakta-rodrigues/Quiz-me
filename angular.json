@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Quiz-me"
+    }
+  },
+  "defaultProject": "Quiz-me",
+  "cli": {
+    "analytics": false
+  }
 }
